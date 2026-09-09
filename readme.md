@@ -1,4 +1,3 @@
-# esirgeyen ve bağışlayan ❤️ Allah'ın (c.c) adıyla - 16e
 ## OpenLayers + Accessible
 ### description
 - This is the standard "zoom in & out" example for displaying an OpenStreetMap map on a web page.
