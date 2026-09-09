@@ -1,4 +1,3 @@
-# esirgeyen ve bağışlayan ❤️ Allah'ın (c.c) adıyla - 16e
 ## OpenLayers + Static Attributions + Toggle
 
 ### description
