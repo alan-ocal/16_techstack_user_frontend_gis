@@ -1,4 +1,3 @@
-# esirgeyen ve bağışlayan ❤️ Allah'ın (c.c) adıyla - 16e
 ## OpenLayers + Fetch API + Map Tiler + Marker Animation + Polyline + Slider control
 
 ### background
